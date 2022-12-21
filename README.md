@@ -6,8 +6,8 @@
 - 🔭 I'm studying a degree in Computer Engineering at the ESEI - Universidade de Vigo.
 - 💬 Ask me about anything!
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angel3245&theme=light&hide_langs_below=1">
-<img src="https://github-readme-stats.vercel.app/api?username=Angel3245&show_icons=true&include_all_commits=true">
+<img align="left" src="https://github-readme-stats-five-iota-67.vercel.app/api/top-langs/?username=Angel3245">
+<img src="https://github-readme-stats-five-iota-67.vercel.app/api?username=Angel3245&show_icons=true&include_all_commits=true">
 
 <br><br><br>
 
