@@ -1,5 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Angel</h1>
 
+<a align="right" target="_blank" href="https://github.com/Angel3245/Angel3245/blob/main/README_es.md"><img alt="spanish" src="https://img.shields.io/badge/lang-es-red.svg" style="max-width: 100%;"></a>
+
 <h3>A little about me:</h3>
 
 - Es From Spain
