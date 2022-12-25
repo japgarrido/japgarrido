@@ -6,8 +6,8 @@
 - 🔭 Estoy estudiando un grado de Ingeniería Informática en la ESEI - Universidade de Vigo.
 - 💬 ¡Pregúntame sobre cualquier cosa!
 
-<img align="left" src="https://github-readme-stats-five-iota-67.vercel.app/api/top-langs/?username=Angel3245&locale=es">
-<img src="https://github-readme-stats-five-iota-67.vercel.app/api?username=Angel3245&show_icons=true&include_all_commits=true&locale=es">
+<img align="left" src="https://github-readme-stat-angel3245.vercel.app/api/top-langs/?username=Angel3245&locale=es">
+<img src="https://github-readme-stat-angel3245.vercel.app/api?username=Angel3245&show_icons=true&include_all_commits=true&locale=es">
 
 <br><br><br>
 
