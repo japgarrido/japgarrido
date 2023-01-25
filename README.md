@@ -5,7 +5,7 @@
 <h3>A little about me:</h3>
 
 - Es From Spain
-- 🔭 I'm studying a degree in Computer Engineering at the ESEI - Universidade de Vigo.
+- 🔭 I'm studying 4-year university degree focusing on Computer Science, Computer Engineering and Information Technology at the <a href="https://esei.uvigo.es/es/">ESEI - Universidade de Vigo</a>.
 - 💬 Ask me about anything!
 
 <img align="left" src="https://github-readme-stat-angel3245.vercel.app/api/top-langs/?username=Angel3245">
