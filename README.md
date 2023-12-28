@@ -5,23 +5,38 @@
 <h3>A little about me:</h3>
 
 - Es From Spain
-- 🔭 I'm studying 4-year university degree focusing on Computer Science, Computer Engineering and Information Technology at the <a href="https://esei.uvigo.es/es/">ESEI - Universidade de Vigo</a>.
+- 🔭 I'm studying a master's degree focusing on Artificial Intelligence at the <a href="https://esei.uvigo.es/es/">ESEI - Universidade de Vigo</a>.
 - 💬 Ask me about anything!
 
-<img align="left" src="https://github-readme-stat-angel3245.vercel.app/api/top-langs/?username=Angel3245">
+<img src="https://github-readme-stat-angel3245.vercel.app/api/top-langs/?username=Angel3245">
+<br>
 <img src="https://github-readme-stat-angel3245.vercel.app/api?username=Angel3245&show_icons=true&include_all_commits=true">
 
 <br><br><br>
 
 <h2>⚡ Experience with:</h2>
+<h3>- Programming languages:</h3>
 <p float="left">
-	<img style="display:inline" alt="Java" src="https://img.shields.io/badge/java-%23E34D00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-  <img style="display:inline" alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+	<img style="display:inline" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  	<img style="display:inline" alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
 	<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 	<img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
 	<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 	<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
+
+<h3>- Frameworks:</h3>
+<p float="left">
+	<img style="display:inline" alt="SpringBoot" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+  	<img style="display:inline" alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+	<img style="display:inline" alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
+</p>
+
+<h3>- Databases:</h3>
+<p float="left">
+	<img style="display:inline" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
 
 <h2>📫 How to reach me:</h2>
 
