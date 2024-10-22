@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Angel</h1>
 
-<a align="right" target="_blank" href="https://github.com/Angel3245/Angel3245/blob/main/README_es.md"><img alt="spanish" src="https://img.shields.io/badge/lang-es-red.svg" style="max-width: 100%;"></a>
+<a align="right" target="_blank" href="https://github.com/japgarrido/japgarrido/blob/main/README_es.md"><img alt="spanish" src="https://img.shields.io/badge/lang-es-red.svg" style="max-width: 100%;"></a>
 
 <h3>A little about me:</h3>
 
@@ -8,9 +8,9 @@
 - 🔭 I'm studying a master's degree focusing on Artificial Intelligence at the <a href="https://esei.uvigo.es/es/">ESEI - Universidade de Vigo</a>.
 - 💬 Ask me about anything!
 
-<img src="https://github-readme-stat-angel3245.vercel.app/api/top-langs/?username=Angel3245">
+<img src="https://github-readme-stat-angel3245.vercel.app/api/top-langs/?username=japgarrido">
 <br>
-<img src="https://github-readme-stat-angel3245.vercel.app/api?username=Angel3245&show_icons=true&include_all_commits=true">
+<img src="https://github-readme-stat-angel3245.vercel.app/api?username=japgarrido&show_icons=true&include_all_commits=true">
 
 <br><br><br>
 
@@ -45,7 +45,7 @@
 
 
 <!--
-**Angel3245/Angel3245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**japgarrido/japgarrido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
