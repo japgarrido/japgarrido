@@ -6,9 +6,9 @@
 - 🔭 Estoy estudiando un máster en Inteligencia Artificial en la ESEI - Universidade de Vigo.
 - 💬 ¡Pregúntame sobre cualquier cosa!
 
-<img src="https://github-readme-stat-angel3245.vercel.app/api/top-langs/?username=Angel3245&locale=es">
+<img src="https://github-readme-stat-angel3245.vercel.app/api/top-langs/?username=japgarrido&locale=es">
 <br>
-<img src="https://github-readme-stat-angel3245.vercel.app/api?username=Angel3245&show_icons=true&include_all_commits=true&locale=es">
+<img src="https://github-readme-stat-angel3245.vercel.app/api?username=japgarrido&show_icons=true&include_all_commits=true&locale=es">
 
 <br><br><br>
 
@@ -42,7 +42,7 @@
 
 
 <!--
-**Angel3245/Angel3245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**japgarrido/japgarrido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
